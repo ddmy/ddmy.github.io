@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: zh-CN
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
@@ -18,33 +18,31 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: 前端笔记-YiJio                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 勤劳致富！知足常乐！   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  前端笔记记录，学习心得，javascript，node，webpack，electron，css，vue，vite，共同成长进步！
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://blog.ddamy.com'
 
 github:
-  username: github_username             # change to your github username
+  username: ddmy             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: fengling_dong            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Yijio
+  email: dd@ddamy.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/@fengling_dong      # change to your twitter homepage
+    - https://github.com/ddmy       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -82,7 +80,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://avatars.githubusercontent.com/u/19168372"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
