@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
   前端笔记记录，学习心得，javascript，node，webpack，electron，css，vue，vite，共同成长进步！
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://blog.ddamy.com'
+url: ''
 
 github:
   username: ddmy             # change to your github username
